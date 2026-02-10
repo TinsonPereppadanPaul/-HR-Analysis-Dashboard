@@ -30,4 +30,4 @@ The dashboard includes the following interactive analyses and visualizations:
 ## Dashboard Preview
 
 ### HR ANALYSIS
-![HR ANALYSIS](images/3.png)
+![HR Analysis Dashboard](3.png)
